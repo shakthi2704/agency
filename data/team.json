@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/images/team/1.jpg",
+    "name": "Robert De Niro",
+    "subName": "Web Developer"
+  },
+  {
+    "img": "/assets/images/team/2.jpg",
+    "name": "Brendan Fraser",
+    "subName": "UI/UX Designer"
+  },
+  {
+    "img": "/assets/images/team/3.jpg",
+    "name": "Ahmed Khaled",
+    "subName": "Web Designer"
+  }
+]
